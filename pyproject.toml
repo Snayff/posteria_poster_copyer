@@ -1,7 +1,7 @@
 [project]
-name = "test"
-version = "0.1.0"
-description = ""
+name = "posteria_poster_copyer"
+version = "1.0.0"
+description = "Copy posters from Posteria backup to film folders."
 authors = [
     {name = "Your Name",email = "you@example.com"}
 ]

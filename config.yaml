@@ -1,3 +1,3 @@
 posters_path: "Y:/posters/films"
 films_path: "Y:/media/films"
-dry_run: true
+dry_run: false
